@@ -1,0 +1,2 @@
+# cppStart
+thinking in cpp 
